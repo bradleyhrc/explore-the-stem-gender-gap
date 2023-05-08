@@ -1,0 +1,1192 @@
+[
+  {
+    "country": "Africa East",
+    "code": "KEN",
+    "powerDistance": 64,
+    "individuality": 27,
+    "masculinity": 41,
+    "uncertaintyAvoidance": 52,
+    "timeOrientation": 32,
+    "indulgence": 40
+  },
+  {
+    "country": "Africa West",
+    "code": "SLE",
+    "powerDistance": 77,
+    "individuality": 20,
+    "masculinity": 46,
+    "uncertaintyAvoidance": 54,
+    "timeOrientation": 9,
+    "indulgence": 78
+  },
+  {
+    "country": "Albania",
+    "code": "ALB",
+    "powerDistance": "",
+    "individuality": "",
+    "masculinity": "",
+    "uncertaintyAvoidance": "",
+    "timeOrientation": 61,
+    "indulgence": 15
+  },
+  {
+    "country": "Algeria",
+    "code": "DZA",
+    "powerDistance": 80,
+    "individuality": 38,
+    "masculinity": 53,
+    "uncertaintyAvoidance": 68,
+    "timeOrientation": 26,
+    "indulgence": 32
+  },
+  {
+    "country": "Andorra",
+    "code": "AND",
+    "powerDistance": "",
+    "individuality": "",
+    "masculinity": "",
+    "uncertaintyAvoidance": "",
+    "timeOrientation": "",
+    "indulgence": 65
+  },
+  {
+    "country": "Arab countries",
+    "code": "BHR",
+    "powerDistance": 80,
+    "individuality": 38,
+    "masculinity": 53,
+    "uncertaintyAvoidance": 68,
+    "timeOrientation": 23,
+    "indulgence": 34
+  },
+  {
+    "country": "Arab countries",
+    "code": "COM",
+    "powerDistance": 80,
+    "individuality": 38,
+    "masculinity": 53,
+    "uncertaintyAvoidance": 68,
+    "timeOrientation": 23,
+    "indulgence": 34
+  },
+  {
+    "country": "Arab countries",
+    "code": "DJI",
+    "powerDistance": 80,
+    "individuality": 38,
+    "masculinity": 53,
+    "uncertaintyAvoidance": 68,
+    "timeOrientation": 23,
+    "indulgence": 34
+  },
+  {
+    "country": "Arab countries",
+    "code": "KWT",
+    "powerDistance": 80,
+    "individuality": 38,
+    "masculinity": 53,
+    "uncertaintyAvoidance": 68,
+    "timeOrientation": 23,
+    "indulgence": 34
+  },
+  {
+    "country": "Arab countries",
+    "code": "LBN",
+    "powerDistance": 80,
+    "individuality": 38,
+    "masculinity": 53,
+    "uncertaintyAvoidance": 68,
+    "timeOrientation": 23,
+    "indulgence": 34
+  },
+  {
+    "country": "Arab countries",
+    "code": "LBY",
+    "powerDistance": 80,
+    "individuality": 38,
+    "masculinity": 53,
+    "uncertaintyAvoidance": 68,
+    "timeOrientation": 23,
+    "indulgence": 34
+  },
+  {
+    "country": "Arab countries",
+    "code": "MRT",
+    "powerDistance": 80,
+    "individuality": 38,
+    "masculinity": 53,
+    "uncertaintyAvoidance": 68,
+    "timeOrientation": 23,
+    "indulgence": 34
+  },
+  {
+    "country": "Arab countries",
+    "code": "OMN",
+    "powerDistance": 80,
+    "individuality": 38,
+    "masculinity": 53,
+    "uncertaintyAvoidance": 68,
+    "timeOrientation": 23,
+    "indulgence": 34
+  },
+  {
+    "country": "Arab countries",
+    "code": "PSE",
+    "powerDistance": 80,
+    "individuality": 38,
+    "masculinity": 53,
+    "uncertaintyAvoidance": 68,
+    "timeOrientation": 23,
+    "indulgence": 34
+  },
+  {
+    "country": "Arab countries",
+    "code": "QAT",
+    "powerDistance": 80,
+    "individuality": 38,
+    "masculinity": 53,
+    "uncertaintyAvoidance": 68,
+    "timeOrientation": 23,
+    "indulgence": 34
+  },
+  {
+    "country": "Arab countries",
+    "code": "SOM",
+    "powerDistance": 80,
+    "individuality": 38,
+    "masculinity": 53,
+    "uncertaintyAvoidance": 68,
+    "timeOrientation": 23,
+    "indulgence": 34
+  },
+  {
+    "country": "Arab countries",
+    "code": "SDN",
+    "powerDistance": 80,
+    "individuality": 38,
+    "masculinity": 53,
+    "uncertaintyAvoidance": 68,
+    "timeOrientation": 23,
+    "indulgence": 34
+  },
+  {
+    "country": "Arab countries",
+    "code": "SYR",
+    "powerDistance": 80,
+    "individuality": 38,
+    "masculinity": 53,
+    "uncertaintyAvoidance": 68,
+    "timeOrientation": 23,
+    "indulgence": 34
+  },
+  {
+    "country": "Arab countries",
+    "code": "TUN",
+    "powerDistance": 80,
+    "individuality": 38,
+    "masculinity": 53,
+    "uncertaintyAvoidance": 68,
+    "timeOrientation": 23,
+    "indulgence": 34
+  },
+  {
+    "country": "Arab countries",
+    "code": "ARE",
+    "powerDistance": 80,
+    "individuality": 38,
+    "masculinity": 53,
+    "uncertaintyAvoidance": 68,
+    "timeOrientation": 23,
+    "indulgence": 34
+  },
+  {
+    "country": "Arab countries",
+    "code": "YEM",
+    "powerDistance": 80,
+    "individuality": 38,
+    "masculinity": 53,
+    "uncertaintyAvoidance": 68,
+    "timeOrientation": 23,
+    "indulgence": 34
+  },
+  {
+    "country": "Argentina",
+    "code": "ARG",
+    "powerDistance": 49,
+    "individuality": 46,
+    "masculinity": 56,
+    "uncertaintyAvoidance": 86,
+    "timeOrientation": 20,
+    "indulgence": 62
+  },
+  {
+    "country": "Armenia",
+    "code": "ARM",
+    "powerDistance": "",
+    "individuality": "",
+    "masculinity": "",
+    "uncertaintyAvoidance": "",
+    "timeOrientation": 61,
+    "indulgence": ""
+  },
+  {
+    "country": "Australia",
+    "code": "AUS",
+    "powerDistance": 38,
+    "individuality": 90,
+    "masculinity": 61,
+    "uncertaintyAvoidance": 51,
+    "timeOrientation": 21,
+    "indulgence": 71
+  },
+  {
+    "country": "Austria",
+    "code": "AUT",
+    "powerDistance": 11,
+    "individuality": 55,
+    "masculinity": 79,
+    "uncertaintyAvoidance": 70,
+    "timeOrientation": 60,
+    "indulgence": 63
+  },
+  {
+    "country": "Azerbaijan",
+    "code": "AZE",
+    "powerDistance": "",
+    "individuality": "",
+    "masculinity": "",
+    "uncertaintyAvoidance": "",
+    "timeOrientation": 61,
+    "indulgence": 22
+  },
+  {
+    "country": "Bangladesh",
+    "code": "BGD",
+    "powerDistance": 80,
+    "individuality": 20,
+    "masculinity": 55,
+    "uncertaintyAvoidance": 60,
+    "timeOrientation": 47,
+    "indulgence": 20
+  },
+  {
+    "country": "Belarus",
+    "code": "BLR",
+    "powerDistance": "",
+    "individuality": "",
+    "masculinity": "",
+    "uncertaintyAvoidance": "",
+    "timeOrientation": 81,
+    "indulgence": 15
+  },
+  {
+    "country": "Belgium",
+    "code": "BEL",
+    "powerDistance": 65,
+    "individuality": 75,
+    "masculinity": 54,
+    "uncertaintyAvoidance": 94,
+    "timeOrientation": 82,
+    "indulgence": 57
+  },
+  {
+    "country": "Bosnia",
+    "code": "BIH",
+    "powerDistance": "",
+    "individuality": "",
+    "masculinity": "",
+    "uncertaintyAvoidance": "",
+    "timeOrientation": 70,
+    "indulgence": 44
+  },
+  {
+    "country": "Brazil",
+    "code": "BRA",
+    "powerDistance": 69,
+    "individuality": 38,
+    "masculinity": 49,
+    "uncertaintyAvoidance": 76,
+    "timeOrientation": 44,
+    "indulgence": 59
+  },
+  {
+    "country": "Bulgaria",
+    "code": "BGR",
+    "powerDistance": 70,
+    "individuality": 30,
+    "masculinity": 40,
+    "uncertaintyAvoidance": 85,
+    "timeOrientation": 69,
+    "indulgence": 16
+  },
+  {
+    "country": "Burkina Faso",
+    "code": "BFA",
+    "powerDistance": "",
+    "individuality": "",
+    "masculinity": "",
+    "uncertaintyAvoidance": "",
+    "timeOrientation": 27,
+    "indulgence": 18
+  },
+  {
+    "country": "Canada",
+    "code": "CAN",
+    "powerDistance": 39,
+    "individuality": 80,
+    "masculinity": 52,
+    "uncertaintyAvoidance": 48,
+    "timeOrientation": 36,
+    "indulgence": 68
+  },
+  {
+    "country": "Chile",
+    "code": "CHL",
+    "powerDistance": 63,
+    "individuality": 23,
+    "masculinity": 28,
+    "uncertaintyAvoidance": 86,
+    "timeOrientation": 31,
+    "indulgence": 68
+  },
+  {
+    "country": "China",
+    "code": "CHN",
+    "powerDistance": 80,
+    "individuality": 20,
+    "masculinity": 66,
+    "uncertaintyAvoidance": 30,
+    "timeOrientation": 87,
+    "indulgence": 24
+  },
+  {
+    "country": "Colombia",
+    "code": "COL",
+    "powerDistance": 67,
+    "individuality": 13,
+    "masculinity": 64,
+    "uncertaintyAvoidance": 80,
+    "timeOrientation": 13,
+    "indulgence": 83
+  },
+  {
+    "country": "Costa Rica",
+    "code": "CRI",
+    "powerDistance": 35,
+    "individuality": 15,
+    "masculinity": 21,
+    "uncertaintyAvoidance": 86,
+    "timeOrientation": "",
+    "indulgence": ""
+  },
+  {
+    "country": "Croatia",
+    "code": "HRV",
+    "powerDistance": 73,
+    "individuality": 33,
+    "masculinity": 40,
+    "uncertaintyAvoidance": 80,
+    "timeOrientation": 58,
+    "indulgence": 33
+  },
+  {
+    "country": "Cyprus",
+    "code": "CYP",
+    "powerDistance": "",
+    "individuality": "",
+    "masculinity": "",
+    "uncertaintyAvoidance": "",
+    "timeOrientation": "",
+    "indulgence": 70
+  },
+  {
+    "country": "Czechia",
+    "code": "CZE",
+    "powerDistance": 57,
+    "individuality": 58,
+    "masculinity": 57,
+    "uncertaintyAvoidance": 74,
+    "timeOrientation": 70,
+    "indulgence": 29
+  },
+  {
+    "country": "Denmark",
+    "code": "DNK",
+    "powerDistance": 18,
+    "individuality": 74,
+    "masculinity": 16,
+    "uncertaintyAvoidance": 23,
+    "timeOrientation": 35,
+    "indulgence": 70
+  },
+  {
+    "country": "Dominican Republic",
+    "code": "DOM",
+    "powerDistance": "",
+    "individuality": "",
+    "masculinity": "",
+    "uncertaintyAvoidance": "",
+    "timeOrientation": 13,
+    "indulgence": 54
+  },
+  {
+    "country": "Ecuador",
+    "code": "ECU",
+    "powerDistance": 78,
+    "individuality": 8,
+    "masculinity": 63,
+    "uncertaintyAvoidance": 67,
+    "timeOrientation": "",
+    "indulgence": ""
+  },
+  {
+    "country": "Egypt",
+    "code": "EGY",
+    "powerDistance": 80,
+    "individuality": 38,
+    "masculinity": 53,
+    "uncertaintyAvoidance": 68,
+    "timeOrientation": 7,
+    "indulgence": 4
+  },
+  {
+    "country": "Ethiopia",
+    "code": "ETH",
+    "powerDistance": 64,
+    "individuality": 27,
+    "masculinity": 41,
+    "uncertaintyAvoidance": 52,
+    "timeOrientation": 32,
+    "indulgence": 46
+  },
+  {
+    "country": "El Salvador",
+    "code": "SLV",
+    "powerDistance": 66,
+    "individuality": 19,
+    "masculinity": 40,
+    "uncertaintyAvoidance": 94,
+    "timeOrientation": 20,
+    "indulgence": 89
+  },
+  {
+    "country": "Estonia",
+    "code": "EST",
+    "powerDistance": 40,
+    "individuality": 60,
+    "masculinity": 30,
+    "uncertaintyAvoidance": 60,
+    "timeOrientation": 82,
+    "indulgence": 16
+  },
+  {
+    "country": "Finland",
+    "code": "FIN",
+    "powerDistance": 33,
+    "individuality": 63,
+    "masculinity": 26,
+    "uncertaintyAvoidance": 59,
+    "timeOrientation": 38,
+    "indulgence": 57
+  },
+  {
+    "country": "France",
+    "code": "FRA",
+    "powerDistance": 68,
+    "individuality": 71,
+    "masculinity": 43,
+    "uncertaintyAvoidance": 86,
+    "timeOrientation": 63,
+    "indulgence": 48
+  },
+  {
+    "country": "Georgia",
+    "code": "GEO",
+    "powerDistance": "",
+    "individuality": "",
+    "masculinity": "",
+    "uncertaintyAvoidance": "",
+    "timeOrientation": 38,
+    "indulgence": 32
+  },
+  {
+    "country": "Germany",
+    "code": "DEU",
+    "powerDistance": 35,
+    "individuality": 67,
+    "masculinity": 66,
+    "uncertaintyAvoidance": 65,
+    "timeOrientation": 83,
+    "indulgence": 40
+  },
+  {
+    "country": "Ghana",
+    "code": "GHA",
+    "powerDistance": 77,
+    "individuality": 20,
+    "masculinity": 46,
+    "uncertaintyAvoidance": 54,
+    "timeOrientation": 4,
+    "indulgence": 72
+  },
+  {
+    "country": "United Kingdom",
+    "code": "GBR",
+    "powerDistance": 35,
+    "individuality": 89,
+    "masculinity": 66,
+    "uncertaintyAvoidance": 35,
+    "timeOrientation": 51,
+    "indulgence": 69
+  },
+  {
+    "country": "Greece",
+    "code": "GRC",
+    "powerDistance": 60,
+    "individuality": 35,
+    "masculinity": 57,
+    "uncertaintyAvoidance": 112,
+    "timeOrientation": 45,
+    "indulgence": 50
+  },
+  {
+    "country": "Guatemala",
+    "code": "GTM",
+    "powerDistance": 95,
+    "individuality": 6,
+    "masculinity": 37,
+    "uncertaintyAvoidance": 101,
+    "timeOrientation": "",
+    "indulgence": ""
+  },
+  {
+    "country": "Hong Kong",
+    "code": "HKG",
+    "powerDistance": 68,
+    "individuality": 25,
+    "masculinity": 57,
+    "uncertaintyAvoidance": 29,
+    "timeOrientation": 61,
+    "indulgence": 17
+  },
+  {
+    "country": "Hungary",
+    "code": "HUN",
+    "powerDistance": 46,
+    "individuality": 80,
+    "masculinity": 88,
+    "uncertaintyAvoidance": 82,
+    "timeOrientation": 58,
+    "indulgence": 31
+  },
+  {
+    "country": "Iceland",
+    "code": "ISL",
+    "powerDistance": "",
+    "individuality": "",
+    "masculinity": "",
+    "uncertaintyAvoidance": "",
+    "timeOrientation": 28,
+    "indulgence": 67
+  },
+  {
+    "country": "India",
+    "code": "IND",
+    "powerDistance": 77,
+    "individuality": 48,
+    "masculinity": 56,
+    "uncertaintyAvoidance": 40,
+    "timeOrientation": 51,
+    "indulgence": 26
+  },
+  {
+    "country": "Indonesia",
+    "code": "IDN",
+    "powerDistance": 78,
+    "individuality": 14,
+    "masculinity": 46,
+    "uncertaintyAvoidance": 48,
+    "timeOrientation": 62,
+    "indulgence": 38
+  },
+  {
+    "country": "Iran",
+    "code": "IRN",
+    "powerDistance": 58,
+    "individuality": 41,
+    "masculinity": 43,
+    "uncertaintyAvoidance": 59,
+    "timeOrientation": 14,
+    "indulgence": 40
+  },
+  {
+    "country": "Iraq",
+    "code": "IRQ",
+    "powerDistance": 80,
+    "individuality": 38,
+    "masculinity": 53,
+    "uncertaintyAvoidance": 68,
+    "timeOrientation": 25,
+    "indulgence": 17
+  },
+  {
+    "country": "Ireland",
+    "code": "IRL",
+    "powerDistance": 28,
+    "individuality": 70,
+    "masculinity": 68,
+    "uncertaintyAvoidance": 35,
+    "timeOrientation": 24,
+    "indulgence": 65
+  },
+  {
+    "country": "Israel",
+    "code": "ISR",
+    "powerDistance": 13,
+    "individuality": 54,
+    "masculinity": 47,
+    "uncertaintyAvoidance": 81,
+    "timeOrientation": 38,
+    "indulgence": ""
+  },
+  {
+    "country": "Italy",
+    "code": "ITA",
+    "powerDistance": 50,
+    "individuality": 76,
+    "masculinity": 70,
+    "uncertaintyAvoidance": 75,
+    "timeOrientation": 61,
+    "indulgence": 30
+  },
+  {
+    "country": "Jamaica",
+    "code": "JAM",
+    "powerDistance": 45,
+    "individuality": 39,
+    "masculinity": 68,
+    "uncertaintyAvoidance": 13,
+    "timeOrientation": "",
+    "indulgence": ""
+  },
+  {
+    "country": "Japan",
+    "code": "JAP",
+    "powerDistance": 54,
+    "individuality": 46,
+    "masculinity": 95,
+    "uncertaintyAvoidance": 92,
+    "timeOrientation": 88,
+    "indulgence": 42
+  },
+  {
+    "country": "Jordan",
+    "code": "JOR",
+    "powerDistance": "",
+    "individuality": "",
+    "masculinity": "",
+    "uncertaintyAvoidance": "",
+    "timeOrientation": 16,
+    "indulgence": 43
+  },
+  {
+    "country": "South Korea",
+    "code": "KOR",
+    "powerDistance": 60,
+    "individuality": 18,
+    "masculinity": 39,
+    "uncertaintyAvoidance": 85,
+    "timeOrientation": 100,
+    "indulgence": 29
+  },
+  {
+    "country": "Kyrgyzstan",
+    "code": "KGZ",
+    "powerDistance": "",
+    "individuality": "",
+    "masculinity": "",
+    "uncertaintyAvoidance": "",
+    "timeOrientation": 66,
+    "indulgence": 39
+  },
+  {
+    "country": "Latvia",
+    "code": "LVA",
+    "powerDistance": 44,
+    "individuality": 70,
+    "masculinity": 9,
+    "uncertaintyAvoidance": 63,
+    "timeOrientation": 69,
+    "indulgence": 13
+  },
+  {
+    "country": "Lithuania",
+    "code": "LTU",
+    "powerDistance": 42,
+    "individuality": 60,
+    "masculinity": 19,
+    "uncertaintyAvoidance": 65,
+    "timeOrientation": 82,
+    "indulgence": 16
+  },
+  {
+    "country": "Luxembourg",
+    "code": "LUX",
+    "powerDistance": 40,
+    "individuality": 60,
+    "masculinity": 50,
+    "uncertaintyAvoidance": 70,
+    "timeOrientation": 64,
+    "indulgence": 56
+  },
+  {
+    "country": "Macedonia",
+    "code": "MKD",
+    "powerDistance": "",
+    "individuality": "",
+    "masculinity": "",
+    "uncertaintyAvoidance": "",
+    "timeOrientation": 62,
+    "indulgence": 35
+  },
+  {
+    "country": "Malaysia",
+    "code": "MYS",
+    "powerDistance": 104,
+    "individuality": 26,
+    "masculinity": 50,
+    "uncertaintyAvoidance": 36,
+    "timeOrientation": 41,
+    "indulgence": 57
+  },
+  {
+    "country": "Mali",
+    "code": "MLI",
+    "powerDistance": "",
+    "individuality": "",
+    "masculinity": "",
+    "uncertaintyAvoidance": "",
+    "timeOrientation": 20,
+    "indulgence": 43
+  },
+  {
+    "country": "Malta",
+    "code": "MLT",
+    "powerDistance": 56,
+    "individuality": 59,
+    "masculinity": 47,
+    "uncertaintyAvoidance": 96,
+    "timeOrientation": 47,
+    "indulgence": 66
+  },
+  {
+    "country": "Mexico",
+    "code": "MEX",
+    "powerDistance": 81,
+    "individuality": 30,
+    "masculinity": 69,
+    "uncertaintyAvoidance": 82,
+    "timeOrientation": 24,
+    "indulgence": 97
+  },
+  {
+    "country": "Moldova",
+    "code": "MDA",
+    "powerDistance": "",
+    "individuality": "",
+    "masculinity": "",
+    "uncertaintyAvoidance": "",
+    "timeOrientation": 71,
+    "indulgence": 19
+  },
+  {
+    "country": "Montenegro",
+    "code": "MNE",
+    "powerDistance": "",
+    "individuality": "",
+    "masculinity": "",
+    "uncertaintyAvoidance": "",
+    "timeOrientation": 75,
+    "indulgence": 20
+  },
+  {
+    "country": "Morocco",
+    "code": "MAR",
+    "powerDistance": 70,
+    "individuality": 46,
+    "masculinity": 53,
+    "uncertaintyAvoidance": 68,
+    "timeOrientation": 14,
+    "indulgence": 25
+  },
+  {
+    "country": "Netherlands",
+    "code": "NLD",
+    "powerDistance": 38,
+    "individuality": 80,
+    "masculinity": 14,
+    "uncertaintyAvoidance": 53,
+    "timeOrientation": 67,
+    "indulgence": 68
+  },
+  {
+    "country": "New Zealand",
+    "code": "NZL",
+    "powerDistance": 22,
+    "individuality": 79,
+    "masculinity": 58,
+    "uncertaintyAvoidance": 49,
+    "timeOrientation": 33,
+    "indulgence": 75
+  },
+  {
+    "country": "Nigeria",
+    "code": "NGA",
+    "powerDistance": 77,
+    "individuality": 20,
+    "masculinity": 46,
+    "uncertaintyAvoidance": 54,
+    "timeOrientation": 13,
+    "indulgence": 84
+  },
+  {
+    "country": "Norway",
+    "code": "NOR",
+    "powerDistance": 31,
+    "individuality": 69,
+    "masculinity": 8,
+    "uncertaintyAvoidance": 50,
+    "timeOrientation": 35,
+    "indulgence": 55
+  },
+  {
+    "country": "Pakistan",
+    "code": "PAK",
+    "powerDistance": 55,
+    "individuality": 14,
+    "masculinity": 50,
+    "uncertaintyAvoidance": 70,
+    "timeOrientation": 50,
+    "indulgence": 0
+  },
+  {
+    "country": "Panama",
+    "code": "PAN",
+    "powerDistance": 95,
+    "individuality": 11,
+    "masculinity": 44,
+    "uncertaintyAvoidance": 86,
+    "timeOrientation": "",
+    "indulgence": ""
+  },
+  {
+    "country": "Peru",
+    "code": "PER",
+    "powerDistance": 64,
+    "individuality": 16,
+    "masculinity": 42,
+    "uncertaintyAvoidance": 87,
+    "timeOrientation": 25,
+    "indulgence": 46
+  },
+  {
+    "country": "Philippines",
+    "code": "PHL",
+    "powerDistance": 94,
+    "individuality": 32,
+    "masculinity": 64,
+    "uncertaintyAvoidance": 44,
+    "timeOrientation": 27,
+    "indulgence": 42
+  },
+  {
+    "country": "Poland",
+    "code": "POL",
+    "powerDistance": 68,
+    "individuality": 60,
+    "masculinity": 64,
+    "uncertaintyAvoidance": 93,
+    "timeOrientation": 38,
+    "indulgence": 29
+  },
+  {
+    "country": "Portugal",
+    "code": "PRT",
+    "powerDistance": 63,
+    "individuality": 27,
+    "masculinity": 31,
+    "uncertaintyAvoidance": 104,
+    "timeOrientation": 28,
+    "indulgence": 33
+  },
+  {
+    "country": "Puerto Rico",
+    "code": "PRI",
+    "powerDistance": "",
+    "individuality": "",
+    "masculinity": "",
+    "uncertaintyAvoidance": "",
+    "timeOrientation": 0,
+    "indulgence": 90
+  },
+  {
+    "country": "Romania",
+    "code": "ROU",
+    "powerDistance": 90,
+    "individuality": 30,
+    "masculinity": 42,
+    "uncertaintyAvoidance": 90,
+    "timeOrientation": 52,
+    "indulgence": 20
+  },
+  {
+    "country": "Russia",
+    "code": "RUS",
+    "powerDistance": 93,
+    "individuality": 39,
+    "masculinity": 36,
+    "uncertaintyAvoidance": 95,
+    "timeOrientation": 81,
+    "indulgence": 20
+  },
+  {
+    "country": "Rwanda",
+    "code": "RWA",
+    "powerDistance": 64,
+    "individuality": 27,
+    "masculinity": 41,
+    "uncertaintyAvoidance": 52,
+    "timeOrientation": 18,
+    "indulgence": 37
+  },
+  {
+    "country": "Saudi Arabia",
+    "code": "SAU",
+    "powerDistance": 80,
+    "individuality": 38,
+    "masculinity": 53,
+    "uncertaintyAvoidance": 68,
+    "timeOrientation": 36,
+    "indulgence": 52
+  },
+  {
+    "country": "Serbia",
+    "code": "SRB",
+    "powerDistance": 86,
+    "individuality": 25,
+    "masculinity": 43,
+    "uncertaintyAvoidance": 92,
+    "timeOrientation": 52,
+    "indulgence": 28
+  },
+  {
+    "country": "Singapore",
+    "code": "SGP",
+    "powerDistance": 74,
+    "individuality": 20,
+    "masculinity": 48,
+    "uncertaintyAvoidance": 8,
+    "timeOrientation": 72,
+    "indulgence": 46
+  },
+  {
+    "country": "Slovakia",
+    "code": "SVK",
+    "powerDistance": 104,
+    "individuality": 52,
+    "masculinity": 110,
+    "uncertaintyAvoidance": 51,
+    "timeOrientation": 77,
+    "indulgence": 28
+  },
+  {
+    "country": "Slovenia",
+    "code": "SVN",
+    "powerDistance": 71,
+    "individuality": 27,
+    "masculinity": 19,
+    "uncertaintyAvoidance": 88,
+    "timeOrientation": 49,
+    "indulgence": 48
+  },
+  {
+    "country": "South Africa",
+    "code": "ZAF",
+    "powerDistance": 49,
+    "individuality": 65,
+    "masculinity": 63,
+    "uncertaintyAvoidance": 49,
+    "timeOrientation": 34,
+    "indulgence": 63
+  },
+  {
+    "country": "Spain",
+    "code": "ESP",
+    "powerDistance": 57,
+    "individuality": 51,
+    "masculinity": 42,
+    "uncertaintyAvoidance": 86,
+    "timeOrientation": 48,
+    "indulgence": 44
+  },
+  {
+    "country": "Suriname",
+    "code": "SUR",
+    "powerDistance": 85,
+    "individuality": 47,
+    "masculinity": 37,
+    "uncertaintyAvoidance": 92,
+    "timeOrientation": "",
+    "indulgence": ""
+  },
+  {
+    "country": "Sweden",
+    "code": "SWE",
+    "powerDistance": 31,
+    "individuality": 71,
+    "masculinity": 5,
+    "uncertaintyAvoidance": 29,
+    "timeOrientation": 53,
+    "indulgence": 78
+  },
+  {
+    "country": "Switzerland",
+    "code": "CHE",
+    "powerDistance": 34,
+    "individuality": 68,
+    "masculinity": 70,
+    "uncertaintyAvoidance": 58,
+    "timeOrientation": 74,
+    "indulgence": 66
+  },
+  {
+    "country": "Taiwan",
+    "code": "TWN",
+    "powerDistance": 58,
+    "individuality": 17,
+    "masculinity": 45,
+    "uncertaintyAvoidance": 69,
+    "timeOrientation": 93,
+    "indulgence": 49
+  },
+  {
+    "country": "Tanzania",
+    "code": "TZA",
+    "powerDistance": 64,
+    "individuality": 27,
+    "masculinity": 41,
+    "uncertaintyAvoidance": 52,
+    "timeOrientation": 34,
+    "indulgence": 38
+  },
+  {
+    "country": "Thailand",
+    "code": "THA",
+    "powerDistance": 64,
+    "individuality": 20,
+    "masculinity": 34,
+    "uncertaintyAvoidance": 64,
+    "timeOrientation": 32,
+    "indulgence": 45
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "code": "TTO",
+    "powerDistance": 47,
+    "individuality": 16,
+    "masculinity": 58,
+    "uncertaintyAvoidance": 55,
+    "timeOrientation": 13,
+    "indulgence": 80
+  },
+  {
+    "country": "Turkiye",
+    "code": "TUR",
+    "powerDistance": 66,
+    "individuality": 37,
+    "masculinity": 45,
+    "uncertaintyAvoidance": 85,
+    "timeOrientation": 46,
+    "indulgence": 49
+  },
+  {
+    "country": "United States",
+    "code": "USA",
+    "powerDistance": 40,
+    "individuality": 91,
+    "masculinity": 62,
+    "uncertaintyAvoidance": 46,
+    "timeOrientation": 26,
+    "indulgence": 68
+  },
+  {
+    "country": "Uganda",
+    "code": "UGA",
+    "powerDistance": 64,
+    "individuality": 27,
+    "masculinity": 41,
+    "uncertaintyAvoidance": 52,
+    "timeOrientation": 24,
+    "indulgence": 52
+  },
+  {
+    "country": "Ukraine",
+    "code": "UKR",
+    "powerDistance": "",
+    "individuality": "",
+    "masculinity": "",
+    "uncertaintyAvoidance": "",
+    "timeOrientation": 86,
+    "indulgence": 14
+  },
+  {
+    "country": "Uruguay",
+    "code": "URY",
+    "powerDistance": 61,
+    "individuality": 36,
+    "masculinity": 38,
+    "uncertaintyAvoidance": 100,
+    "timeOrientation": 26,
+    "indulgence": 53
+  },
+  {
+    "country": "Venezuela",
+    "code": "VEN",
+    "powerDistance": 81,
+    "individuality": 12,
+    "masculinity": 73,
+    "uncertaintyAvoidance": 76,
+    "timeOrientation": 16,
+    "indulgence": 100
+  },
+  {
+    "country": "Vietnam",
+    "code": "VNM",
+    "powerDistance": 70,
+    "individuality": 20,
+    "masculinity": 40,
+    "uncertaintyAvoidance": 30,
+    "timeOrientation": 57,
+    "indulgence": 35
+  },
+  {
+    "country": "Zambia",
+    "code": "ZMB",
+    "powerDistance": 64,
+    "individuality": 27,
+    "masculinity": 41,
+    "uncertaintyAvoidance": 52,
+    "timeOrientation": 30,
+    "indulgence": 42
+  },
+  {
+    "country": "Zimbabwe",
+    "code": "ZWE",
+    "powerDistance": 64,
+    "individuality": 27,
+    "masculinity": 41,
+    "uncertaintyAvoidance": 52,
+    "timeOrientation": 15,
+    "indulgence": 28
+  }
+]

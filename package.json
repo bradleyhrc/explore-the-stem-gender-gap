@@ -1,0 +1,41 @@
+{
+  "name": "exploring-the-stem-gender-gap",
+  "version": "3.0.0",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html",
+    "predeploy": "rm -rf dist && parcel build src/index.html --public-url 'https://retrocraft.github.io/cs492-project/'",
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.4.0",
+    "@fortawesome/free-solid-svg-icons": "^6.4.0",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@mdx-js/react": "^1.0.0",
+    "bootstrap": "^5.2.3",
+    "d3": "7",
+    "d3-geo-projection": "^4.0.0",
+    "d3-selection": "^2.0.0",
+    "d3-transition": "^2.0.0",
+    "iso-3166": "^4.2.0",
+    "lodash": "^4.17.21",
+    "react": "^17.0.0",
+    "react-bootstrap": "^2.7.2",
+    "react-dom": "^17.0.0",
+    "react-scrollama": "^2.3.2",
+    "react-select": "^5.7.2",
+    "tinycolor2": "^1.6.0",
+    "victory": "^36.6.8"
+  },
+  "devDependencies": {
+    "@parcel/transformer-mdx": "^2.8.3",
+    "@parcel/transformer-sass": "^2.8.3",
+    "@types/d3": "^7.4.0",
+    "@types/lodash": "^4.14.192",
+    "gh-pages": "^0.12.0",
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  }
+}

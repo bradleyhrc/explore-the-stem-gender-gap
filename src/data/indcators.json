@@ -1,0 +1,1227 @@
+{
+  "AFE": {
+    "gdp": 1080710000000,
+    "gdpPerCapita": 1537.336021,
+    "population": 702976832
+  },
+  "AFW": {
+    "gdp": 840187000000,
+    "gdpPerCapita": 1757.030626,
+    "population": 478185907
+  },
+  "ARB": {
+    "gdp": 2860720000000,
+    "gdpPerCapita": 6266.359916,
+    "population": 456520777
+  },
+  "CSS": {
+    "gdp": 75295300457,
+    "gdpPerCapita": 10063.6913,
+    "population": 7481877
+  },
+  "CEB": {
+    "gdp": 1901940000000,
+    "gdpPerCapita": 18751.02651,
+    "population": 101430997
+  },
+  "EAR": {
+    "gdp": 12633200000000,
+    "gdpPerCapita": 3702.692786,
+    "population": 3411889059
+  },
+  "EAS": {
+    "gdp": 30911700000000,
+    "gdpPerCapita": 13041.78119,
+    "population": 2370204347
+  },
+  "EAP": {
+    "gdp": 20751800000000,
+    "gdpPerCapita": 9771.648206,
+    "population": 2123673456
+  },
+  "TEA": {
+    "gdp": 20725200000000,
+    "gdpPerCapita": 9880.09607,
+    "population": 2097669023
+  },
+  "EMU": {
+    "gdp": 14563300000000,
+    "gdpPerCapita": 42450.15377,
+    "population": 343067846
+  },
+  "ECS": {
+    "gdp": 25082800000000,
+    "gdpPerCapita": 27152.47123,
+    "population": 923777214
+  },
+  "ECA": {
+    "gdp": 3517370000000,
+    "gdpPerCapita": 8758.938553,
+    "population": 401575218
+  },
+  "TEC": {
+    "gdp": 4550390000000,
+    "gdpPerCapita": 9842.052265,
+    "population": 462341222
+  },
+  "EUU": {
+    "gdp": 17177400000000,
+    "gdpPerCapita": 38411.06278,
+    "population": 447199800
+  },
+  "FCS": {
+    "gdp": 1787340000000,
+    "gdpPerCapita": 1784.734325,
+    "population": 1001462452
+  },
+  "HPC": {
+    "gdp": 892066000000,
+    "gdpPerCapita": 1035.892553,
+    "population": 861156745
+  },
+  "HIC": {
+    "gdp": 59829700000000,
+    "gdpPerCapita": 48225.24121,
+    "population": 1240629858
+  },
+  "IBD": {
+    "gdp": 35511400000000,
+    "gdpPerCapita": 7221.406351,
+    "population": 4917520297
+  },
+  "IBT": {
+    "gdp": 38046400000000,
+    "gdpPerCapita": 5682.466677,
+    "population": 6695397735
+  },
+  "IDB": {
+    "gdp": 1096480000000,
+    "gdpPerCapita": 1842.771049,
+    "population": 595016031
+  },
+  "IDX": {
+    "gdp": 1438800000000,
+    "gdpPerCapita": 1216.372989,
+    "population": 1182861407
+  },
+  "IDA": {
+    "gdp": 2535300000000,
+    "gdpPerCapita": 1426.028713,
+    "population": 1777877438
+  },
+  "LTE": {
+    "gdp": 26622100000000,
+    "gdpPerCapita": 11465.85777,
+    "population": 2321862159
+  },
+  "LCN": {
+    "gdp": 5454430000000,
+    "gdpPerCapita": 8327.60519,
+    "population": 654981699
+  },
+  "LAC": {
+    "gdp": 4585100000000,
+    "gdpPerCapita": 7728.033309,
+    "population": 593308001
+  },
+  "TLA": {
+    "gdp": 5183130000000,
+    "gdpPerCapita": 8108.91587,
+    "population": 639188695
+  },
+  "LDC": {
+    "gdp": 1264540000000,
+    "gdpPerCapita": 1150.030148,
+    "population": 1099568566
+  },
+  "LMY": {
+    "gdp": 36354200000000,
+    "gdpPerCapita": 5491.92212,
+    "population": 6619578961
+  },
+  "LIC": {
+    "gdp": 506017000000,
+    "gdpPerCapita": 704.5087865,
+    "population": 718255072
+  },
+  "LMC": {
+    "gdp": 8742530000000,
+    "gdpPerCapita": 2572.705144,
+    "population": 3398187527
+  },
+  "MEA": {
+    "gdp": 3676800000000,
+    "gdpPerCapita": 7562.825078,
+    "population": 486167363
+  },
+  "MNA": {
+    "gdp": 1490440000000,
+    "gdpPerCapita": 3565.239343,
+    "population": 418047201
+  },
+  "TMN": {
+    "gdp": 1472400000000,
+    "gdpPerCapita": 3564.066025,
+    "population": 413124452
+  },
+  "MIC": {
+    "gdp": 35845100000000,
+    "gdpPerCapita": 6074.084921,
+    "population": 5901323889
+  },
+  "NAC": {
+    "gdp": 25310700000000,
+    "gdpPerCapita": 68369.66279,
+    "population": 370203720
+  },
+  "OED": {
+    "gdp": 58268400000000,
+    "gdpPerCapita": 42446.85932,
+    "population": 1372736513
+  },
+  "OSS": {
+    "gdp": 453948000000,
+    "gdpPerCapita": 13878.81484,
+    "population": 32708003
+  },
+  "PSS": {
+    "gdp": 9481916212,
+    "gdpPerCapita": 3643.845437,
+    "population": 2602173
+  },
+  "PST": {
+    "gdp": 54972700000000,
+    "gdpPerCapita": 49223.59503,
+    "population": 1116796245
+  },
+  "PRE": {
+    "gdp": 1427050000000,
+    "gdpPerCapita": 1411.45927,
+    "population": 1011043183
+  },
+  "SST": {
+    "gdp": 538706000000,
+    "gdpPerCapita": 12588.92779,
+    "population": 42792053
+  },
+  "SAS": {
+    "gdp": 4088770000000,
+    "gdpPerCapita": 2149.821595,
+    "population": 1901911604
+  },
+  "TSA": {
+    "gdp": 4088770000000,
+    "gdpPerCapita": 2149.821595,
+    "population": 1901911604
+  },
+  "SSF": {
+    "gdp": 1920900000000,
+    "gdpPerCapita": 1626.277926,
+    "population": 1181162739
+  },
+  "SSA": {
+    "gdp": 1919440000000,
+    "gdpPerCapita": 1625.183118,
+    "population": 1181063481
+  },
+  "TSS": {
+    "gdp": 1920900000000,
+    "gdpPerCapita": 1626.277926,
+    "population": 1181162739
+  },
+  "UMC": {
+    "gdp": 27104100000000,
+    "gdpPerCapita": 10828.05069,
+    "population": 2503136362
+  },
+  "WLD": {
+    "gdp": 96513100000000,
+    "gdpPerCapita": 12234.7968,
+    "population": 7888408686
+  },
+  "AFG": {
+    "gdp": 14786861638,
+    "gdpPerCapita": 368.7546142,
+    "population": 40099462
+  },
+  "ALB": {
+    "gdp": 18255787479,
+    "gdpPerCapita": 6492.872012,
+    "population": 2811666
+  },
+  "DZA": {
+    "gdp": 163044000000,
+    "gdpPerCapita": 3690.627878,
+    "population": 44177969
+  },
+  "ASM": {
+    "gdp": 709000000,
+    "gdpPerCapita": 15743.31076,
+    "population": 45035
+  },
+  "AND": {
+    "gdp": 3330281524,
+    "gdpPerCapita": 42137.32727,
+    "population": 79034
+  },
+  "AGO": {
+    "gdp": 67404287260,
+    "gdpPerCapita": 1953.533757,
+    "population": 34503774
+  },
+  "ATG": {
+    "gdp": 1471125926,
+    "gdpPerCapita": 15781.3957,
+    "population": 93219
+  },
+  "ARG": {
+    "gdp": 487227000000,
+    "gdpPerCapita": 10636.1202,
+    "population": 45808747
+  },
+  "ARM": {
+    "gdp": 13861409969,
+    "gdpPerCapita": 4966.513471,
+    "population": 2790974
+  },
+  "ABW": {
+    "gdp": 3126019399,
+    "gdpPerCapita": 29342.10086,
+    "population": 106537
+  },
+  "AUS": {
+    "gdp": 1552670000000,
+    "gdpPerCapita": 60443.10916,
+    "population": 25688079
+  },
+  "AUT": {
+    "gdp": 480368000000,
+    "gdpPerCapita": 53637.70571,
+    "population": 8955797
+  },
+  "AZE": {
+    "gdp": 54622176471,
+    "gdpPerCapita": 5387.997975,
+    "population": 10137750
+  },
+  "BHS": {
+    "gdp": 11208600000,
+    "gdpPerCapita": 27478.38963,
+    "population": 407906
+  },
+  "BHR": {
+    "gdp": 38868663032,
+    "gdpPerCapita": 26562.96914,
+    "population": 1463265
+  },
+  "BGD": {
+    "gdp": 416265000000,
+    "gdpPerCapita": 2457.92488,
+    "population": 169356251
+  },
+  "BRB": {
+    "gdp": 4843800000,
+    "gdpPerCapita": 17225.4623,
+    "population": 281200
+  },
+  "BLR": {
+    "gdp": 68205380707,
+    "gdpPerCapita": 7302.257794,
+    "population": 9340314
+  },
+  "BEL": {
+    "gdp": 594104000000,
+    "gdpPerCapita": 51247.01435,
+    "population": 11592952
+  },
+  "BLZ": {
+    "gdp": 2491500000,
+    "gdpPerCapita": 6228.267309,
+    "population": 400031
+  },
+  "BEN": {
+    "gdp": 17144918952,
+    "gdpPerCapita": 1319.154995,
+    "population": 12996895
+  },
+  "BMU": {
+    "gdp": 7286607000,
+    "gdpPerCapita": 114090.3283,
+    "population": 63867
+  },
+  "BTN": {
+    "gdp": 2539552985,
+    "gdpPerCapita": 3266.364905,
+    "population": 777486
+  },
+  "BOL": {
+    "gdp": 40408208528,
+    "gdpPerCapita": 3345.196589,
+    "population": 12079472
+  },
+  "BIH": {
+    "gdp": 23365361635,
+    "gdpPerCapita": 7143.310548,
+    "population": 3270943
+  },
+  "BWA": {
+    "gdp": 17614791266,
+    "gdpPerCapita": 6805.221274,
+    "population": 2588423
+  },
+  "BRA": {
+    "gdp": 1608980000000,
+    "gdpPerCapita": 7507.160971,
+    "population": 214326223
+  },
+  "BRN": {
+    "gdp": 14006569576,
+    "gdpPerCapita": 31449.07656,
+    "population": 445373
+  },
+  "BGR": {
+    "gdp": 84056312734,
+    "gdpPerCapita": 12221.49661,
+    "population": 6877743
+  },
+  "BFA": {
+    "gdp": 19737615114,
+    "gdpPerCapita": 893.0771558,
+    "population": 22100683
+  },
+  "BDI": {
+    "gdp": 2779813489,
+    "gdpPerCapita": 221.4776762,
+    "population": 12551213
+  },
+  "CPV": {
+    "gdp": 1936174043,
+    "gdpPerCapita": 3293.233054,
+    "population": 587925
+  },
+  "KHM": {
+    "gdp": 26961061120,
+    "gdpPerCapita": 1625.23502,
+    "population": 16589023
+  },
+  "CMR": {
+    "gdp": 45338283345,
+    "gdpPerCapita": 1666.932734,
+    "population": 27198628
+  },
+  "CAN": {
+    "gdp": 1988340000000,
+    "gdpPerCapita": 51987.93905,
+    "population": 38246108
+  },
+  "CYM": {
+    "gdp": 5898449688,
+    "gdpPerCapita": 86568.76964,
+    "population": 68136
+  },
+  "CAF": {
+    "gdp": 2516498299,
+    "gdpPerCapita": 461.1374902,
+    "population": 5457154
+  },
+  "TCD": {
+    "gdp": 11779980802,
+    "gdpPerCapita": 685.6902841,
+    "population": 17179740
+  },
+  "CHL": {
+    "gdp": 317059000000,
+    "gdpPerCapita": 16265.09598,
+    "population": 19493184
+  },
+  "CHN": {
+    "gdp": 17734100000000,
+    "gdpPerCapita": 12556.33312,
+    "population": 1412360000
+  },
+  "COL": {
+    "gdp": 314464000000,
+    "gdpPerCapita": 6104.136709,
+    "population": 51516562
+  },
+  "COM": {
+    "gdp": 1296089633,
+    "gdpPerCapita": 1577.471027,
+    "population": 821625
+  },
+  "COD": {
+    "gdp": 55350968593,
+    "gdpPerCapita": 577.2092152,
+    "population": 95894118
+  },
+  "COG": {
+    "gdp": 13366230220,
+    "gdpPerCapita": 2290.382891,
+    "population": 5835806
+  },
+  "CRI": {
+    "gdp": 64282438667,
+    "gdpPerCapita": 12472.44373,
+    "population": 5153957
+  },
+  "CIV": {
+    "gdp": 70043191477,
+    "gdpPerCapita": 2549.041297,
+    "population": 27478249
+  },
+  "HRV": {
+    "gdp": 68955083280,
+    "gdpPerCapita": 17685.32528,
+    "population": 3899000
+  },
+  "CUW": {
+    "gdp": 2699612458,
+    "gdpPerCapita": 17717.59648,
+    "population": 152369
+  },
+  "CYP": {
+    "gdp": 28407867534,
+    "gdpPerCapita": 31551.81641,
+    "population": 1244188
+  },
+  "CZE": {
+    "gdp": 281778000000,
+    "gdpPerCapita": 26821.24523,
+    "population": 10505772
+  },
+  "DNK": {
+    "gdp": 398303000000,
+    "gdpPerCapita": 68007.75667,
+    "population": 5856733
+  },
+  "DJI": {
+    "gdp": 3482987379,
+    "gdpPerCapita": 3150.436729,
+    "population": 1105557
+  },
+  "DMA": {
+    "gdp": 554181481.5,
+    "gdpPerCapita": 7653.17187,
+    "population": 72412
+  },
+  "DOM": {
+    "gdp": 94243453937,
+    "gdpPerCapita": 8476.752157,
+    "population": 11117873
+  },
+  "ECU": {
+    "gdp": 106166000000,
+    "gdpPerCapita": 5965.132871,
+    "population": 17797737
+  },
+  "EGY": {
+    "gdp": 404143000000,
+    "gdpPerCapita": 3698.834981,
+    "population": 109262178
+  },
+  "SLV": {
+    "gdp": 28736940000,
+    "gdpPerCapita": 4551.184661,
+    "population": 6314167
+  },
+  "GNQ": {
+    "gdp": 12269392840,
+    "gdpPerCapita": 7506.667523,
+    "population": 1634466
+  },
+  "EST": {
+    "gdp": 37191166152,
+    "gdpPerCapita": 27943.70122,
+    "population": 1330932
+  },
+  "SWZ": {
+    "gdp": 4743335153,
+    "gdpPerCapita": 3978.403528,
+    "population": 1192271
+  },
+  "ETH": {
+    "gdp": 111271000000,
+    "gdpPerCapita": 925.077428,
+    "population": 120283026
+  },
+  "FRO": {
+    "gdp": 3649886275,
+    "gdpPerCapita": 69010.3098,
+    "population": 52889
+  },
+  "FJI": {
+    "gdp": 4296304590,
+    "gdpPerCapita": 4646.612723,
+    "population": 924610
+  },
+  "FIN": {
+    "gdp": 297302000000,
+    "gdpPerCapita": 53654.7503,
+    "population": 5541017
+  },
+  "FRA": {
+    "gdp": 2957880000000,
+    "gdpPerCapita": 43658.97898,
+    "population": 67749632
+  },
+  "PYF": {
+    "gdp": 6054676735,
+    "gdpPerCapita": 19914.60351,
+    "population": 304032
+  },
+  "GAB": {
+    "gdp": 20216843174,
+    "gdpPerCapita": 8635.325694,
+    "population": 2341179
+  },
+  "GMB": {
+    "gdp": 2038417462,
+    "gdpPerCapita": 772.1523951,
+    "population": 2639916
+  },
+  "GEO": {
+    "gdp": 18629365597,
+    "gdpPerCapita": 5023.27438,
+    "population": 3708610
+  },
+  "DEU": {
+    "gdp": 4259930000000,
+    "gdpPerCapita": 51203.55447,
+    "population": 83196078
+  },
+  "GHA": {
+    "gdp": 77594279055,
+    "gdpPerCapita": 2363.299296,
+    "population": 32833031
+  },
+  "GRC": {
+    "gdp": 214874000000,
+    "gdpPerCapita": 20192.5963,
+    "population": 10641221
+  },
+  "GRD": {
+    "gdp": 1122807407,
+    "gdpPerCapita": 9010.572245,
+    "population": 124610
+  },
+  "GUM": {
+    "gdp": 6123000000,
+    "gdpPerCapita": 35904.86355,
+    "population": 170534
+  },
+  "GTM": {
+    "gdp": 85985752107,
+    "gdpPerCapita": 5025.542291,
+    "population": 17109746
+  },
+  "GIN": {
+    "gdp": 16091817842,
+    "gdpPerCapita": 1189.175999,
+    "population": 13531906
+  },
+  "GNB": {
+    "gdp": 1638517533,
+    "gdpPerCapita": 795.1185693,
+    "population": 2060721
+  },
+  "GUY": {
+    "gdp": 8044498801,
+    "gdpPerCapita": 9998.544311,
+    "population": 804567
+  },
+  "HTI": {
+    "gdp": 20944392615,
+    "gdpPerCapita": 1829.593044,
+    "population": 11447569
+  },
+  "HND": {
+    "gdp": 28488668302,
+    "gdpPerCapita": 2771.717461,
+    "population": 10278345
+  },
+  "HKG": {
+    "gdp": 369176000000,
+    "gdpPerCapita": 49800.54241,
+    "population": 7413100
+  },
+  "HUN": {
+    "gdp": 181848000000,
+    "gdpPerCapita": 18728.12189,
+    "population": 9709891
+  },
+  "ISL": {
+    "gdp": 25602419210,
+    "gdpPerCapita": 68727.63666,
+    "population": 372520
+  },
+  "IND": {
+    "gdp": 3176300000000,
+    "gdpPerCapita": 2256.590409,
+    "population": 1407563842
+  },
+  "IDN": {
+    "gdp": 1186090000000,
+    "gdpPerCapita": 4332.709281,
+    "population": 273753191
+  },
+  "IRN": {
+    "gdp": 359713000000,
+    "gdpPerCapita": 4091.209187,
+    "population": 87923432
+  },
+  "IRQ": {
+    "gdp": 207889000000,
+    "gdpPerCapita": 4775.377454,
+    "population": 43533592
+  },
+  "IRL": {
+    "gdp": 504183000000,
+    "gdpPerCapita": 100172.0793,
+    "population": 5033165
+  },
+  "ISR": {
+    "gdp": 488527000000,
+    "gdpPerCapita": 52170.71186,
+    "population": 9364000
+  },
+  "ITA": {
+    "gdp": 2107700000000,
+    "gdpPerCapita": 35657.49756,
+    "population": 59109668
+  },
+  "JAM": {
+    "gdp": 14657586937,
+    "gdpPerCapita": 5183.581305,
+    "population": 2827695
+  },
+  "JPN": {
+    "gdp": 4940880000000,
+    "gdpPerCapita": 39312.66037,
+    "population": 125681593
+  },
+  "JOR": {
+    "gdp": 45744271659,
+    "gdpPerCapita": 4103.258966,
+    "population": 11148278
+  },
+  "KAZ": {
+    "gdp": 197112000000,
+    "gdpPerCapita": 10373.78979,
+    "population": 19000988
+  },
+  "KEN": {
+    "gdp": 110347000000,
+    "gdpPerCapita": 2081.799855,
+    "population": 53005614
+  },
+  "KIR": {
+    "gdp": 207031250,
+    "gdpPerCapita": 1606.462514,
+    "population": 128874
+  },
+  "KOR": {
+    "gdp": 1810960000000,
+    "gdpPerCapita": 34997.78164,
+    "population": 51744876
+  },
+  "XKX": {
+    "gdp": 9412034299,
+    "gdpPerCapita": 5269.783901,
+    "population": 1786038
+  },
+  "KGZ": {
+    "gdp": 8543423503,
+    "gdpPerCapita": 1276.700365,
+    "population": 6691800
+  },
+  "LAO": {
+    "gdp": 18827148510,
+    "gdpPerCapita": 2535.623432,
+    "population": 7425057
+  },
+  "LVA": {
+    "gdp": 39853501580,
+    "gdpPerCapita": 21148.16294,
+    "population": 1884490
+  },
+  "LBN": {
+    "gdp": 23131940281,
+    "gdpPerCapita": 4136.146347,
+    "population": 5592631
+  },
+  "LSO": {
+    "gdp": 2496134680,
+    "gdpPerCapita": 1094.098185,
+    "population": 2281454
+  },
+  "LBR": {
+    "gdp": 3509000000,
+    "gdpPerCapita": 675.6631858,
+    "population": 5193416
+  },
+  "LBY": {
+    "gdp": 42817472975,
+    "gdpPerCapita": 6357.19555,
+    "population": 6735277
+  },
+  "LTU": {
+    "gdp": 66445256585,
+    "gdpPerCapita": 23723.34025,
+    "population": 2800839
+  },
+  "LUX": {
+    "gdp": 85506243834,
+    "gdpPerCapita": 133590.147,
+    "population": 640064
+  },
+  "MAC": {
+    "gdp": 30123914809,
+    "gdpPerCapita": 43873.59116,
+    "population": 686607
+  },
+  "MDG": {
+    "gdp": 14472603323,
+    "gdpPerCapita": 500.511032,
+    "population": 28915653
+  },
+  "MWI": {
+    "gdp": 12626717492,
+    "gdpPerCapita": 634.8356601,
+    "population": 19889742
+  },
+  "MYS": {
+    "gdp": 372981000000,
+    "gdpPerCapita": 11109.26184,
+    "population": 33573874
+  },
+  "MDV": {
+    "gdp": 5405576236,
+    "gdpPerCapita": 10366.29336,
+    "population": 521457
+  },
+  "MLI": {
+    "gdp": 19140461606,
+    "gdpPerCapita": 873.7948624,
+    "population": 21904983
+  },
+  "MLT": {
+    "gdp": 17364044944,
+    "gdpPerCapita": 33486.67198,
+    "population": 518536
+  },
+  "MHL": {
+    "gdp": 259538700,
+    "gdpPerCapita": 6172.145065,
+    "population": 42050
+  },
+  "MRT": {
+    "gdp": 9996249658,
+    "gdpPerCapita": 2166.046799,
+    "population": 4614974
+  },
+  "MUS": {
+    "gdp": 11529042672,
+    "gdpPerCapita": 9106.237202,
+    "population": 1266060
+  },
+  "MEX": {
+    "gdp": 1272840000000,
+    "gdpPerCapita": 10045.6805,
+    "population": 126705138
+  },
+  "FSM": {
+    "gdp": 404028900,
+    "gdpPerCapita": 3571.336769,
+    "population": 113131
+  },
+  "MDA": {
+    "gdp": 13679221333,
+    "gdpPerCapita": 5230.661733,
+    "population": 2615199
+  },
+  "MCO": {
+    "gdp": 8596096984,
+    "gdpPerCapita": 234315.4605,
+    "population": 36686
+  },
+  "MNG": {
+    "gdp": 15286441818,
+    "gdpPerCapita": 4566.140154,
+    "population": 3347782
+  },
+  "MNE": {
+    "gdp": 5861268039,
+    "gdpPerCapita": 9465.703999,
+    "population": 619211
+  },
+  "MAR": {
+    "gdp": 142866000000,
+    "gdpPerCapita": 3795.380127,
+    "population": 37076584
+  },
+  "MOZ": {
+    "gdp": 15776758633,
+    "gdpPerCapita": 491.8391128,
+    "population": 32077072
+  },
+  "MMR": {
+    "gdp": 65091751273,
+    "gdpPerCapita": 1209.926942,
+    "population": 53798084
+  },
+  "NAM": {
+    "gdp": 12310595844,
+    "gdpPerCapita": 4865.557765,
+    "population": 2530151
+  },
+  "NRU": {
+    "gdp": 133218896.9,
+    "gdpPerCapita": 10648.14139,
+    "population": 12511
+  },
+  "NPL": {
+    "gdp": 36288830373,
+    "gdpPerCapita": 1208.218534,
+    "population": 30034989
+  },
+  "NLD": {
+    "gdp": 1012850000000,
+    "gdpPerCapita": 57767.87881,
+    "population": 17533044
+  },
+  "NCL": {
+    "gdp": 10071351960,
+    "gdpPerCapita": 37159.54677,
+    "population": 271030
+  },
+  "NZL": {
+    "gdp": 249886000000,
+    "gdpPerCapita": 48781.02663,
+    "population": 5122600
+  },
+  "NIC": {
+    "gdp": 14013022092,
+    "gdpPerCapita": 2045.535402,
+    "population": 6850540
+  },
+  "NER": {
+    "gdp": 14915001427,
+    "gdpPerCapita": 590.6294548,
+    "population": 25252722
+  },
+  "NGA": {
+    "gdp": 440834000000,
+    "gdpPerCapita": 2065.749068,
+    "population": 213401323
+  },
+  "MKD": {
+    "gdp": 13825049832,
+    "gdpPerCapita": 6694.641126,
+    "population": 2065092
+  },
+  "NOR": {
+    "gdp": 482175000000,
+    "gdpPerCapita": 89154.27609,
+    "population": 5408320
+  },
+  "OMN": {
+    "gdp": 88191977373,
+    "gdpPerCapita": 19509.46646,
+    "population": 4520471
+  },
+  "PAK": {
+    "gdp": 348263000000,
+    "gdpPerCapita": 1505.010193,
+    "population": 231402117
+  },
+  "PLW": {
+    "gdp": 217800000,
+    "gdpPerCapita": 12083.88815,
+    "population": 18024
+  },
+  "PAN": {
+    "gdp": 63605100000,
+    "gdpPerCapita": 14617.60448,
+    "population": 4351267
+  },
+  "PNG": {
+    "gdp": 26594305746,
+    "gdpPerCapita": 2672.94579,
+    "population": 9949437
+  },
+  "PRY": {
+    "gdp": 39495431574,
+    "gdpPerCapita": 5891.499965,
+    "population": 6703799
+  },
+  "PER": {
+    "gdp": 223249000000,
+    "gdpPerCapita": 6621.574336,
+    "population": 33715471
+  },
+  "PHL": {
+    "gdp": 394086000000,
+    "gdpPerCapita": 3460.530963,
+    "population": 113880328
+  },
+  "POL": {
+    "gdp": 679445000000,
+    "gdpPerCapita": 17999.90995,
+    "population": 37747124
+  },
+  "PRT": {
+    "gdp": 253663000000,
+    "gdpPerCapita": 24567.50927,
+    "population": 10325147
+  },
+  "PRI": {
+    "gdp": 106526000000,
+    "gdpPerCapita": 32640.71034,
+    "population": 3263584
+  },
+  "QAT": {
+    "gdp": 179677000000,
+    "gdpPerCapita": 66838.35743,
+    "population": 2688235
+  },
+  "ROU": {
+    "gdp": 284088000000,
+    "gdpPerCapita": 14858.22943,
+    "population": 19119880
+  },
+  "RUS": {
+    "gdp": 1778780000000,
+    "gdpPerCapita": 12194.77734,
+    "population": 143449286
+  },
+  "RWA": {
+    "gdp": 11070356519,
+    "gdpPerCapita": 822.3479886,
+    "population": 13461888
+  },
+  "WSM": {
+    "gdp": 843842416.5,
+    "gdpPerCapita": 3857.318464,
+    "population": 218764
+  },
+  "STP": {
+    "gdp": 526653790.7,
+    "gdpPerCapita": 2360.543554,
+    "population": 223107
+  },
+  "SAU": {
+    "gdp": 833541000000,
+    "gdpPerCapita": 23185.87079,
+    "population": 35950396
+  },
+  "SEN": {
+    "gdp": 27625388352,
+    "gdpPerCapita": 1636.893209,
+    "population": 16876720
+  },
+  "SRB": {
+    "gdp": 63082047650,
+    "gdpPerCapita": 9230.178316,
+    "population": 6834326
+  },
+  "SYC": {
+    "gdp": 1454458184,
+    "gdpPerCapita": 14653.30939,
+    "population": 99258
+  },
+  "SLE": {
+    "gdp": 4042237864,
+    "gdpPerCapita": 480.0392113,
+    "population": 8420641
+  },
+  "SGP": {
+    "gdp": 396987000000,
+    "gdpPerCapita": 72794.00302,
+    "population": 5453566
+  },
+  "SVK": {
+    "gdp": 116527000000,
+    "gdpPerCapita": 21391.92533,
+    "population": 5447247
+  },
+  "SVN": {
+    "gdp": 61748586535,
+    "gdpPerCapita": 29291.40062,
+    "population": 2108079
+  },
+  "SLB": {
+    "gdp": 1631486532,
+    "gdpPerCapita": 2304.844567,
+    "population": 707851
+  },
+  "SOM": {
+    "gdp": 7628000011,
+    "gdpPerCapita": 446.9815596,
+    "population": 17065581
+  },
+  "ZAF": {
+    "gdp": 419015000000,
+    "gdpPerCapita": 7055.044776,
+    "population": 59392255
+  },
+  "ESP": {
+    "gdp": 1427380000000,
+    "gdpPerCapita": 30103.51373,
+    "population": 47415750
+  },
+  "LKA": {
+    "gdp": 88927263725,
+    "gdpPerCapita": 4013.687657,
+    "population": 22156000
+  },
+  "KNA": {
+    "gdp": 860840740.7,
+    "gdpPerCapita": 18082.61019,
+    "population": 47606
+  },
+  "LCA": {
+    "gdp": 1691275157,
+    "gdpPerCapita": 9414.226231,
+    "population": 179651
+  },
+  "VCT": {
+    "gdp": 904181492.8,
+    "gdpPerCapita": 8666.387041,
+    "population": 104332
+  },
+  "SDN": {
+    "gdp": 34326058557,
+    "gdpPerCapita": 751.8213501,
+    "population": 45657202
+  },
+  "SUR": {
+    "gdp": 2984706244,
+    "gdpPerCapita": 4869.134226,
+    "population": 612985
+  },
+  "SWE": {
+    "gdp": 635664000000,
+    "gdpPerCapita": 61028.73806,
+    "population": 10415811
+  },
+  "CHE": {
+    "gdp": 800640000000,
+    "gdpPerCapita": 91991.60046,
+    "population": 8703405
+  },
+  "TJK": {
+    "gdp": 8746270636,
+    "gdpPerCapita": 897.0475103,
+    "population": 9750064
+  },
+  "TZA": {
+    "gdp": 67841049193,
+    "gdpPerCapita": 1099.287598,
+    "population": 63588334
+  },
+  "THA": {
+    "gdp": 505947000000,
+    "gdpPerCapita": 7066.190546,
+    "population": 71601103
+  },
+  "TLS": {
+    "gdp": 3621222382,
+    "gdpPerCapita": 2741.393931,
+    "population": 1320942
+  },
+  "TGO": {
+    "gdp": 8413200568,
+    "gdpPerCapita": 973.2061291,
+    "population": 8644829
+  },
+  "TON": {
+    "gdp": 469231309.5,
+    "gdpPerCapita": 4426.000637,
+    "population": 106017
+  },
+  "TTO": {
+    "gdp": 24460196271,
+    "gdpPerCapita": 16032.50277,
+    "population": 1525663
+  },
+  "TUN": {
+    "gdp": 46686741814,
+    "gdpPerCapita": 3807.13915,
+    "population": 12262946
+  },
+  "TUR": {
+    "gdp": 819035000000,
+    "gdpPerCapita": 9661.235975,
+    "population": 84775404
+  },
+  "TCA": {
+    "gdp": 943269800,
+    "gdpPerCapita": 20908.5827,
+    "population": 45114
+  },
+  "TUV": {
+    "gdp": 63100961.54,
+    "gdpPerCapita": 5632.002993,
+    "population": 11204
+  },
+  "UGA": {
+    "gdp": 40529789026,
+    "gdpPerCapita": 883.8920323,
+    "population": 45853778
+  },
+  "UKR": {
+    "gdp": 200086000000,
+    "gdpPerCapita": 4835.571777,
+    "population": 43792855
+  },
+  "ARE": {
+    "gdp": 415022000000,
+    "gdpPerCapita": 44315.55418,
+    "population": 9365145
+  },
+  "GBR": {
+    "gdp": 3131380000000,
+    "gdpPerCapita": 46510.28278,
+    "population": 67326569
+  },
+  "USA": {
+    "gdp": 23315100000000,
+    "gdpPerCapita": 70248.629,
+    "population": 331893745
+  },
+  "URY": {
+    "gdp": 59319484711,
+    "gdpPerCapita": 17313.18835,
+    "population": 3426260
+  },
+  "UZB": {
+    "gdp": 69238903106,
+    "gdpPerCapita": 1983.064723,
+    "population": 34915100
+  },
+  "VUT": {
+    "gdp": 956332655.7,
+    "gdpPerCapita": 2996.621062,
+    "population": 319137
+  },
+  "VNM": {
+    "gdp": 366138000000,
+    "gdpPerCapita": 3756.489121,
+    "population": 97468029
+  },
+  "PSE": {
+    "gdp": 18036800000,
+    "gdpPerCapita": 3663.969055,
+    "population": 4922749
+  },
+  "ZMB": {
+    "gdp": 22147634727,
+    "gdpPerCapita": 1137.343633,
+    "population": 19473125
+  },
+  "ZWE": {
+    "gdp": 28371238666,
+    "gdpPerCapita": 1773.920411,
+    "population": 15993524
+  }
+}
